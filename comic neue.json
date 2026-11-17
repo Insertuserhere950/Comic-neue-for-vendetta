@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "Comic Neue",
+  "previewText": "Comic Sans vibes",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Italic.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Regular.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Italic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-BoldItalic.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-BoldItalic.ttf",
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Insertuserhere950/Comic-neue-for-vendetta/main/ComicNeue-Bold.ttf"
+  }
+}
